@@ -16,7 +16,7 @@ public class Main {
             comments.startProjectHead();
             switch (scannerInt.nextInt()) {
                 case 1://Guruh yaratish
-                    studyCenter.creatGroup();
+                    studyCenter.createGroup();
 
                     break;
                 case 2://Talaba qo'shish

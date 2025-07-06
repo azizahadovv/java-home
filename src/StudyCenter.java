@@ -12,7 +12,7 @@ public class StudyCenter {
     Comments comments = new Comments();
 
 
-    public void creatGroup() {
+    public void createGroup() {
         System.out.print("Guruh nomini kiriting: ");
 
         Group group1 = new Group(countObj++, scannerStr.nextLine());
